@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Myspace AI</string>
+    <string name="accessibility_service_description">Myspace AI uses accessibility to detect power button presses for hands-free voice capture. No personal data is collected or transmitted.</string>
+</resources>
